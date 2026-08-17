@@ -83,3 +83,6 @@ DerivedDataCache/
 /GD4_GameProject/Intermediate/
 /GD4_GameProject/DerivedDataCache/
 /GD4_GameProject/Binaries/
+
+# Ignore Unreal generated FileOpenOrder logs
+/GD4_GameProject/Build/Windows/FileOpenOrder/
