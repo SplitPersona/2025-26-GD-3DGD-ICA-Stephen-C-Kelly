@@ -212,5 +212,5 @@ This voice line is triggered after the player successfully restores power.
 
 
 
-
+YOUTUBE SCREENCAST: https://youtu.be/YwcGAnr8LxM
 
